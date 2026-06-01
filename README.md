@@ -26,7 +26,7 @@ But you can do a lot from a single text input!
 
 Like writing down your todo, marking them done, do many kinds of calculations quickly, search by text or filter by date range, unlimited undo. You can add tags or organize notes/todo in projects, archive unnecessary ones. 
 
-Also, you can customize how the app looks from the app itself! With the color scheme customizer. So, that you can make it your own.
+Also, you can customize how the app looks from the app itself, with the color scheme customizer. Make it your own.
 
 ![color_picker.png](assets/color_picker.png)
 
@@ -37,7 +37,7 @@ And many more features are coming! Like Time tracking, scripting, etc., with onl
 And now about the big fluffer in the room! Your data.
 And, FS have you covered here too!
 
-Data is stored in text format, on your device and completely open. Even in 100 years, or tomorrow, if the developer falls under the bus, you will have the application as long as you want. The format is easy to navigate and searchable using *nix commands.
+Data is stored in text format, on your device and completely open. Even in 100 years, or tomorrow, if this developer falls under the bus, you will have the application as long as you want. The format is easy to navigate and searchable using *nix commands.
 
 ![file.png](assets/file_on_text.png)
 
