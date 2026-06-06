@@ -1,0 +1,22 @@
+# The URL the site will be built for
+base_url = "https://tmahmood.github.io/fluffy_sparrow"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+theme = "anemone"
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+# Put all your custom variables here
+## Navigation
+header_nav = [
+    { url = "/", name_en = "/home " },
+    { url = "/pricing", name_en = "/pricing " },
+]
