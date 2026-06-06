@@ -1,20 +1,22 @@
----
-layout: default
----
++++
+title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
++++
 
-![rect6.png](assets/rect6.png)
+# Fluffy Sparrow
 
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
 
-<video width="320" height="240" controls>
-  <source src="assets/fluffy_sparrow.mp4" type="video/mp4">
-</video>
+{{ limg(src="images/different_things.png") }}
 
-![first_page.png](assets/different_things.png)
+## Demo
+
+<video width="842" height="888" controls>
+<source src="images/fluffy_sparrow.mp4" type="video/mp4">
+</video>
 
 ## Fluffy Sparrow?
 
-![mascot.png](assets/mascot.png)
+{{ limg(src="images/mascot.png" alt="Mascot") }}
 
 The name comes from this tiny guest, a baby house sparrow, that came for food on the window next to me. It's fluffy, tiny, adorable, but also quick and pretty clever.
 
@@ -22,7 +24,7 @@ So, what this Fluffy Sparrow (FS) can do to deserve the same name? Let's see!
 
 The most important part of a note app is taking notes. And FS can make it quick and simple as open the app, type the note and enter, and done!
 
-![text_input.png](assets/text_input.png)
+{{ limg(alt="text_input.png", src="images/text_input.png") }}
 
 That's all you have to do! All the operations are simply done from this single text input.
 
@@ -31,22 +33,22 @@ It does its best to be as frictionless as possible.
 But you can do a lot from a single text input!
 
 
-![main_window.png](assets/img_main_window.png)
+{{ limg(alt="main_window.png", src="images/img_main_window.png") }}
 
-Like writing down your todo, marking them done, do many kinds of calculations quickly, search by text or filter by date range, unlimited undo. You can add tags or organize notes/todo in projects, archive unnecessary ones. 
+Like writing down your todo, marking them done, do many kinds of calculations quickly, search by text or filter by date range, unlimited undo. You can add tags or organize notes/todo in projects, archive unnecessary ones.
 
 Documentation, and context-sensitive help is available by pressing `Ctrl+H`.
 
-![help.png](assets/help.png)
+{{ limg(alt="help.png", src="images/help.png") }}
 
-And all actions can be performed by keyboard shortcuts 
+And all actions can be performed by keyboard shortcuts
 
-![keyboard.png](assets/keyboard.png)
+{{ limg(alt="keyboard.png", src="images/keyboard.png") }}
 
 
 Also, you can customize how the app looks from the app itself, with the color scheme customizer. Make it your own.
 
-![color_picker.png](assets/color_picker.png)
+{{ limg(alt="color_picker.png", src="images/color_picker.png") }}
 
 FS's core principle is making journaling as frictionless as possible. And, a lot of thought is put in to making it so, and still being done. It's handcrafted, without any LLM, and with a lot of care.
 
@@ -57,7 +59,7 @@ And, FS have you covered here too!
 
 Data is stored in text format, on your device and completely open. Even in 100 years, or tomorrow, if this developer falls under the bus, you will have the application as long as you want. The format is easy to navigate and searchable using *nix commands.
 
-![file.png](assets/file_on_text.png)
+{{ limg(alt="file.png", src="images/file_on_text.png") }}
 
 It has no online features, no intention to have any; In the future, You can expect to have online interaction, through scripts written by you, but not the app itself.
 

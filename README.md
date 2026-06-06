@@ -2,7 +2,7 @@
 
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
 
-<video width="320" height="240" controls>
+<video width="842" height="888" controls>
   <source src="assets/fluffy_sparrow.mp4" type="video/mp4">
 </video>
 
