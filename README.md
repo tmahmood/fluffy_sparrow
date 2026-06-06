@@ -2,6 +2,10 @@
 
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
 
+<video width="320" height="240" controls>
+  <source src="assets/fluffy_sparrow.mp4" type="video/mp4">
+</video>
+
 ![first_page.png](assets/different_things.png)
 
 ## Fluffy Sparrow?
@@ -13,7 +17,6 @@ The name comes from this tiny guest, a baby house sparrow, that came for food on
 So, what this Fluffy Sparrow (FS) can do to deserve the same name? Let's see!
 
 The most important part of a note app is taking notes. And FS can make it quick and simple as open the app, type the note and enter, and done!
-
 ![text_input.png](assets/text_input.png)
 
 That's all you have to do! All the operations are simply done from this single text input.
@@ -21,6 +24,7 @@ That's all you have to do! All the operations are simply done from this single t
 It does its best to be as frictionless as possible.
 
 But you can do a lot from a single text input!
+
 
 ![main_window.png](assets/img_main_window.png)
 
