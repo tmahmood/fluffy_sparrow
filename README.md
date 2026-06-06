@@ -17,6 +17,7 @@ The name comes from this tiny guest, a baby house sparrow, that came for food on
 So, what this Fluffy Sparrow (FS) can do to deserve the same name? Let's see!
 
 The most important part of a note app is taking notes. And FS can make it quick and simple as open the app, type the note and enter, and done!
+
 ![text_input.png](assets/text_input.png)
 
 That's all you have to do! All the operations are simply done from this single text input.
