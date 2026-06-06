@@ -8,6 +8,8 @@ compile_sass = true
 build_search_index = false
 theme = "anemone"
 
+output_dir = "docs"
+
 [markdown]
 
 [markdown.highlighting]
