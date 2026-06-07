@@ -2,7 +2,9 @@
 title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 +++
 
-# Fluffy Sparrow
+# Fluffy Sparrow 
+
+{{ l_resize_img(src="images/logo_fuzzy_sparrow.png", width=64, height=64) }}
 
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
 
