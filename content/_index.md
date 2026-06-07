@@ -4,17 +4,22 @@ title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 
 # Fluffy Sparrow 
 
-{{ l_resize_img(src="images/logo_fuzzy_sparrow.png", width=64, height=64) }}
-
-There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
-
-{{ limg(src="images/different_things.png") }}
-
 ## Demo
 
 <video width="842" height="888" controls>
 <source src="images/fluffy_sparrow.mp4" type="video/mp4">
 </video>
+
+
+
+[PRODUCT PAGE](https://tmahmood.gumroad.com/l/fluffy_sparrow) | [BUY](https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true)
+
+---
+
+There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
+
+
+{{ limg(src="images/different_things.png") }}
 
 ## Fluffy Sparrow?
 

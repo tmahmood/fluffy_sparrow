@@ -19,6 +19,7 @@ theme = "catppuccin-mocha"
 # Put all your custom variables here
 ## Navigation
 header_nav = [
-    { url = "/", name_en = "/home " },
-    { url = "/pricing", name_en = "/pricing " },
+    { url = "/", name_en = " home | " },
+    { url = "https://tmahmood.gumroad.com/l/fluffy_sparrow", name_en = " product details | " },
+    { url = "https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true", name_en = " buy | " },
 ]
