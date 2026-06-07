@@ -69,3 +69,4 @@ And having no 3rd party dependency, the app should not have any issues running o
 - Data are in plain text format, easy to navigate and search
 - No external dependencies
 - Lightweight, and minimal interface, fully customizable theme
+- More features are coming
