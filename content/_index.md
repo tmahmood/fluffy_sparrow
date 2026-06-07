@@ -14,6 +14,7 @@ title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 
 [PRODUCT PAGE](https://tmahmood.gumroad.com/l/fluffy_sparrow) | [BUY](https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true)
 
+> $15, but first 50 users gets the product for $10
 ---
 
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
