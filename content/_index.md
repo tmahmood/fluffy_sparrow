@@ -6,11 +6,8 @@ title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 
 ## Demo
 
-<video width="842" height="888" controls>
-<source src="images/fluff.mp4" type="video/mp4">
-</video>
 
-
+{{ vv(src="images/fluff.mp4") }}
 
 [PRODUCT PAGE](https://tmahmood.gumroad.com/l/fluffy_sparrow) | [BUY](https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true)
 
@@ -59,6 +56,7 @@ Also, you can customize how the app looks from the app itself, with the color sc
 
 {{ limg(alt="color_picker.png", src="images/color_picker.png") }}
 
+## Core Principle
 FS's core principle is making journaling as frictionless as possible. And, a lot of thought is put in to making it so, and still being done. It's handcrafted, without any LLM, and with a lot of care.
 
 And many more features are coming! Like Time tracking, scripting, etc., with only one time purchase, that will cost you less than a month of coffee.

@@ -1,5 +1,7 @@
 +++
 title = "Pricing"
+weight = 2
+date = 2026-06-04
 +++
 
 Fluffy Sparrow has a one-time price of 

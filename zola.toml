@@ -17,9 +17,11 @@ theme = "catppuccin-mocha"
 
 [extra]
 # Put all your custom variables here
+list_pages = true
 ## Navigation
 header_nav = [
     { url = "/", name_en = " home | " },
+    { url = "/blog", name_en = " blog | " },
     { url = "https://tmahmood.gumroad.com/l/fluffy_sparrow", name_en = " product details | " },
     { url = "https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true", name_en = " buy | " },
 ]
