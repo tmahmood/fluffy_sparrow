@@ -7,11 +7,11 @@ title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 ## Demo
 
 
-{{ vv(src="images/fluff.mp4") }}
+{{ vv(src="video/fluff.mp4") }}
 
 [PRODUCT PAGE](https://tmahmood.gumroad.com/l/fluffy_sparrow) | [BUY](https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true)
 
-> $15, but first 50 users gets the product for $10
+> $15, but first 50 users get the product for $10
  
 ---
 
