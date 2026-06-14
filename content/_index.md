@@ -4,17 +4,6 @@ title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 
 # Fluffy Sparrow 
 
-## Demo
-
-
-{{ vv(src="video/fluff.mp4") }}
-
-[PRODUCT PAGE](https://tmahmood.gumroad.com/l/fluffy_sparrow) | [BUY](https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true)
-
-> $15, but first 50 users get the product for $10
- 
----
-
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
 
 
@@ -71,6 +60,17 @@ Data is stored in text format, on your device and completely open. Even in 100 y
 It has no online features, no intention to have any; In the future, You can expect to have online interaction, through scripts written by you, but not the app itself.
 
 And having no 3rd party dependency, the app should not have any issues running on the intended platforms, which are now Linux, and Windows. I do not have a Mac, so no Mac support, yet.
+
+## Demo
+
+{{ vv(src="video/fluff.mp4") }}
+
+[PRODUCT PAGE](https://tmahmood.gumroad.com/l/fluffy_sparrow) | [BUY](https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true)
+
+> $15, but the first 50 users get the product for $10
+> 
+---
+
 
 ## Features
 
