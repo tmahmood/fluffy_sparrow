@@ -40,10 +40,28 @@ And all actions can be performed by keyboard shortcuts
 
 {{ limg(alt="keyboard.png", src="images/keyboard.png") }}
 
+Also, contextual help is available.
+
+{{ limg(alt="keyboard.png", src="images/contextual_help.png") }}
 
 Also, you can customize how the app looks from the app itself, with the color scheme customizer. Make it your own.
 
 {{ limg(alt="color_picker.png", src="images/color_picker.png") }}
+
+
+You can filter notes by date, daily, weekly or monthly. Simply by using
+
+```
+alt+up/down/left/right
+```
+
+or
+
+```
+alt+shift+up/down/left/right
+```
+
+{{ limg(alt="fiter_date_range.png", src="images/fiter_date_range.png") }}
 
 ## Core Principle
 FS's core principle is making journaling as frictionless as possible. And, a lot of thought is put in to making it so, and still being done. It's handcrafted, without any LLM, and with a lot of care.
