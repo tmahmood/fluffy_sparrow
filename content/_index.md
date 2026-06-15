@@ -9,6 +9,14 @@ There are many notes applications in the wild. But each one scratches different 
 
 {{ limg(src="images/different_things.png") }}
 
+
+{{ big_button(text="Download Demo", href="https://github.com/tmahmood/fluffy_sparrow/releases/tag/v0.0.3" ) }}
+{{ big_button(text="PRODUCT PAGE", href="https://tmahmood.gumroad.com/l/fluffy_sparrow") }}
+{{ big_button(text="BUY", href="https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true") }}
+
+> $15, but the first 50 users get the product for $10
+>
+> 
 ## Fluffy Sparrow?
 
 {{ limg(src="images/mascot.png" alt="Mascot") }}
@@ -83,10 +91,8 @@ And having no 3rd party dependency, the app should not have any issues running o
 
 {{ vv(src="video/fluff.mp4") }}
 
-[PRODUCT PAGE](https://tmahmood.gumroad.com/l/fluffy_sparrow) | [BUY](https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true)
 
-> $15, but the first 50 users get the product for $10
-> 
+
 ---
 
 
