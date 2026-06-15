@@ -69,7 +69,7 @@ or
 alt+shift+up/down/left/right
 ```
 
-{{ limg(alt="fiter_date_range.png", src="images/filter_date_range.png") }}
+{{ limg(alt="filter_date_range.png", src="images/filter_date_range.png") }}
 
 ## Core Principle
 FS's core principle is making journaling as frictionless as possible. And, a lot of thought is put in to making it so, and still being done. It's handcrafted, without any LLM, and with a lot of care.
