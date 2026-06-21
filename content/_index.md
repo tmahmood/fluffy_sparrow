@@ -4,10 +4,9 @@ title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 
 # Fluffy Sparrow 
 
+{{ vv(src="video/fluffy_sparrow.mp4") }}
+
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quite the punch.
-
-
-{{ limg(src="images/different_things.png") }}
 
 
 {{ big_button(text="Download Demo", href="https://github.com/tmahmood/fluffy_sparrow/releases/tag/v0.0.3" ) }}
@@ -16,7 +15,9 @@ There are many notes applications in the wild. But each one scratches different 
 
 > $15, but the first 50 users get the product for $10
 >
-> 
+
+{{ limg(src="images/different_things.png") }}
+
 ## Fluffy Sparrow?
 
 {{ limg(src="images/mascot.png" alt="Mascot") }}
@@ -35,10 +36,13 @@ It does its best to be as frictionless as possible.
 
 But you can do a lot from a single text input!
 
-
-{{ limg(alt="main_window.png", src="images/img_main_window.png") }}
-
-Like writing down your todo, marking them done, do many kinds of calculations quickly, search by text or filter by date range, unlimited undo. You can add tags or organize notes/todo in projects, archive unnecessary ones.
+Like 
+ - writing down your todo, marking them done, 
+ - do many kinds of calculations quickly, 
+ - search by text or filter by date range, 
+ - unlimited undo. 
+ - You can add tags or organize notes/todo in projects, 
+ - archive unnecessary ones.
 
 Documentation, and context-sensitive help is available by pressing `Ctrl+H`.
 
@@ -52,22 +56,12 @@ Also, contextual help is available.
 
 {{ limg(alt="keyboard.png", src="images/contextual_help.png") }}
 
-Also, you can customize how the app looks from the app itself, with the color scheme customizer. Make it your own.
+Also, you can customize how the app looks from the app itself, with the customizer. Make it your own.
 
 {{ limg(alt="color_picker.png", src="images/color_picker.png") }}
 
 
-You can filter notes by date, daily, weekly or monthly. Simply by using
-
-```
-alt+up/down/left/right
-```
-
-or
-
-```
-alt+shift+up/down/left/right
-```
+You can filter notes by date, daily, weekly or monthly. Simply by using designated keyboard shortcuts, or commands
 
 {{ limg(alt="filter_date_range.png", src="images/filter_date_range.png") }}
 
@@ -86,10 +80,6 @@ Data is stored in text format, on your device and completely open. Even in 100 y
 It has no online features, no intention to have any; In the future, You can expect to have online interaction, through scripts written by you, but not the app itself.
 
 And having no 3rd party dependency, the app should not have any issues running on the intended platforms, which are now Linux, and Windows. I do not have a Mac, so no Mac support, yet.
-
-## Demo
-
-{{ vv(src="video/fluff.mp4") }}
 
 
 
