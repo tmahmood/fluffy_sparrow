@@ -9,7 +9,7 @@ title = "Fluffy Sparrow, Simple, Minimalistic, Frictionless Note App"
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quite the punch.
 
 
-{{ big_button(text="Download Demo", href="https://github.com/tmahmood/fluffy_sparrow/releases/tag/v0.0.10" ) }}
+{{ big_button(text="Download Demo", href="https://github.com/tmahmood/fluffy_sparrow/releases/tag/v0.0.12" ) }}
 {{ big_button(text="PRODUCT PAGE", href="https://tmahmood.gumroad.com/l/fluffy_sparrow") }}
 {{ big_button(text="BUY", href="https://tmahmood.gumroad.com/l/fluffy_sparrow?wanted=true") }}
 
