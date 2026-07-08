@@ -1,4 +1,4 @@
-![rect6.png](static/images/rect6.png)
+![rect6.png](static/images/logo_fuzzy_sparrow.png)
 
 There are many notes applications in the wild. But each one scratches different itches, and this one looks to take care of some, by being extremely simple, frictionless, minimalistic, while still packing quiet the punch.
 
